@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Chatting</string>
+    <string name="post_button">post</string>
+    <string name="postMessage">What do you want to talk about?</string>
+</resources>
